@@ -43,4 +43,4 @@ This Features helps to reset the pin for the system in case the user forgets the
 An email alert is sent to the user address when it's done.
 
 ## Instructions
-Clone the repo and manually compile them.
+Clone the repo and manually compile them. JavaFX and  JavaMail are needed.
