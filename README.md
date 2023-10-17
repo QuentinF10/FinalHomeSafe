@@ -2,7 +2,7 @@
 # Control Software for a Home Safe.
 
 ## Project Description:
-This Projects simulates a control software for a sophisticated Home Safe. This is a group project, and we followed principle software development life cycle from requirement analysis, to design, unit testing, to actually implementing the software. 
+This Projects simulates a control software for a sophisticated Home Safe.
 
 ### Components:
 * **Security:** Digital Home Safe uses a 4 pin authentication system as a security protocol for preventing unauthorized access to the system.
